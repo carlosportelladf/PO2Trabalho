@@ -44,7 +44,9 @@ Classe Professor - (sub classe de pessoa)
 Aluno		: Carlos Alberto Almeida Portella
 Matricula	: 10900030
 Curso		: Análise e desenvolvimento de sistemas
+Atribuição	: Codigo/ Apoio a documentação
 
 Aluno 		: Philipe Fernandes de Sousa Sampaio
 Matricula      	: 41604931
 Curso		: Sistemas de Informação
+Atribuição	: Diagrama de classe/ Documentação
